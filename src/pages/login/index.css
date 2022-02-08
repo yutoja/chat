@@ -1,0 +1,48 @@
+input {
+  outline: none;
+  border: none;
+}
+.back {
+  height: 50vh;
+  background: url(../../aset/好.jpg) round;
+}
+.lobody {
+  height: 0.9375rem;
+  width: 1.9792rem;
+  margin: 0.5208rem auto;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.impu {
+  height: 0.2083rem;
+  border: 0.0052rem solid #d9d9d9;
+  border-radius: 0.026rem;
+  display: flex;
+  align-items: center;
+  padding-right: 0.0521rem;
+}
+.impu > input {
+  width: 1.263rem;
+  height: 0.1176rem;
+}
+.inco {
+  height: 100%;
+  line-height: 0.1823rem;
+  width: 0.2604rem;
+  text-align: center;
+  border-right: 0.0052rem solid #d9d9d9;
+  margin-right: 0.0521rem;
+  font-size: 0.1042rem;
+}
+.red {
+  color: red;
+}
+.greed {
+  color: green;
+}
+.xxxx {
+  line-height: 0.0833rem;
+  width: 0.0833rem;
+  font-size: 0.1042rem;
+}
